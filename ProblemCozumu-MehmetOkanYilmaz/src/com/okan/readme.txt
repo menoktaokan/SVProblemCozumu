@@ -7,4 +7,4 @@ Bu proje içide 3 algoritma ve bunların test durumları var. Bu programlar:
 
 Test durumlarının gerçekleştirilebilmesi için JUnit Test olarak çalıştırmanız yeterli olacaktır.
 
-İyi günler dilerim.
+İyi günler dilerim. 
